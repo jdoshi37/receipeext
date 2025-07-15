@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Recipe Extractor AI",
+  "description": "An application that uses Gemini AI to extract recipe details from a URL. Users can paste a link to a recipe, view the extracted ingredients and instructions, and save their favorite recipes for later.",
+  "requestFramePermissions": []
+}
